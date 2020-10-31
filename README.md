@@ -5,7 +5,7 @@
 [![Deployment of Online DevOps Dojo coach lambda](../../workflows/Deployment%20of%20Online%20DevOps%20Dojo%20coach%20lambda/badge.svg)](../../actions?query=workflow%3A%22Deployment+of+Online+DevOps+Dojo+coach+lambda%22)
 
 This repository contains the sources of the **[Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/)**
-Katacoda Scenarios and the coach robot.
+Katacoda Scenarios and the coach robot. - edit
 
 If you are landing here and just want to get going with the training, please
 go to [about the DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/).
