@@ -1,4 +1,4 @@
-// index.js: core coach code triggered by the DevOps Dojo coach github
+// index.js: core coach code triggered by the DevOps Dojo coach github - edited
 // app on any event to the GitHub repositories where the GitHub app is installed.
 // This Source Code Form is subject to the terms of the Mozilla Public
 // License, v. 2.0. If a copy of the MPL was not distributed with this
