@@ -1,6 +1,7 @@
 ## Welcome!
 
-Welcome to the **Online DevOps Dojo** Katacoda course.
+Welcome to the **Unicorn Online DevOps Dojo** Katacoda course.
+This course was adapted from content created by [DXC Technology](https://dxc-technology.github.io/about-devops-dojo/)
 
 This course is made up of 6 open source modules.
 
