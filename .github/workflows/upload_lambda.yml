@@ -1,4 +1,4 @@
-name: Deployment of Online DevOps Dojo coach lambda 
+name: Deployment of Online DevOps Dojo coach lambda - edit
 
 on:
   push:
