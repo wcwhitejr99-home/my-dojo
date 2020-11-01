@@ -1,6 +1,6 @@
 ## Welcome!
 
-Welcome to the **Online DevOps Dojo** lab on Value Stream Mapping (VSM).
+Welcome to the **Unicorn Online DevOps Dojo** lab on Value Stream Mapping (VSM).
 
 ## Purpose
 

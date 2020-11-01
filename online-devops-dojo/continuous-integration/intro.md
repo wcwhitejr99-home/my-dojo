@@ -1,6 +1,6 @@
 ## Welcome!
 
-Welcome to the **Online DevOps Dojo** lab on Continuous Integration.
+Welcome to the **Unicorn Online DevOps Dojo** lab on Continuous Integration.
 
 ## The story
 

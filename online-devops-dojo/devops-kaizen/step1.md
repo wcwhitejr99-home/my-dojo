@@ -2,7 +2,7 @@ While the DevOps Kaizen module can be taken independently, it follows directly
 on from the Value Stream Mapping module.
 
 Hopefully you have followed our advice and taken the Value Stream Mapping (VSM)
-module of the **Online DevOps Dojo** and are thus helping us in the serious
+module of the **Unicorn Online DevOps Dojo** and are thus helping us in the serious
 business of protecting the space time continuum.
 
 This is the VSM which the Pet Clinic team created to represent the E2E flow of

@@ -1,6 +1,6 @@
 ## Welcome!
 
-Welcome to the **Online DevOps Dojo** lab on Version Control.
+Welcome to the **Unicorn Online DevOps Dojo** lab on Version Control.
 
 ## Purpose
 

@@ -1,10 +1,8 @@
-Throughout the modules, you will interact with the virtual team, in the
-context of issues or pull requests. This is done through a [GitHub Application](https://developer.github.com/apps/about-apps/)
-which you need to "install" in your pet-clinic repository.
+Throughout the modules, you will interact with the virtual team, in the context of issues or pull requests. This is done through a [GitHub Application](https://developer.github.com/apps/about-apps/) which you need to "install" in your pet-clinic repository.  
 
-* Go to the Online DevOps Dojo coach web site: <https://github.com/apps/online-devops-dojo-coach>
+* Go to the Online DevOps Dojo coach web site: <https://github.com/apps/my-dojo-app>
 
-![Dojo coach](../../assets/online-devops-dojo/welcome/probot.jpg)
+![Unicorn](../../assets/online-devops-dojo/welcome/my-dojo-app.png)
 
 * Click "Install".
 * If your account belongs to organization(s), you will see a first page

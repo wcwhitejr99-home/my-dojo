@@ -12,7 +12,7 @@ go to [about the DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo
 
 ## Changelog
 
-See a [history of the changes](CHANGELOG.md) to the **Online DevOps Dojo**.
+See a [history of the changes](CHANGELOG.md) to the **Unicorn Online DevOps Dojo**.
 
 ## Files description
 
