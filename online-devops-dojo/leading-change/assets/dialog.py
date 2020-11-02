@@ -56,7 +56,7 @@ def human_type(stdscr, speaking, firstname, text, color, dialog_id):
     y, x = stdscr.getyx()
     height, width = stdscr.getmaxyx()
     if y + lines + 2 > height:
-        # wait_for_enter(stdscr, dialog_id)
+        wait_for_enter(stdscr, dialog_id)
         stdscr.clear()
     # Speaker
     stdscr.addstr(speaking + ">", curses.color_pair(1))
@@ -99,9 +99,9 @@ def redraw_on_resize(stdscr, dialog_id):
 
 def wait_for_enter(stdscr, dialog_id):
     # Resize before waiting for enter
-    try:
-        stdscr.addstr("\nPress enter\n", curses.color_pair(15))
-    except curses.error: pass
+    # try:
+    #     stdscr.addstr("\nPress enter\n", curses.color_pair(15))
+    # except curses.error: pass
     if curses.is_term_resized(height, width):
             redraw_on_resize(stdscr, dialog_id)
     k = 0
@@ -140,7 +140,7 @@ def main(stdscr):
         try:
             human_type(stdscr, dialog['speaking'], firstname, textwrap.fill(dialog['text'], width - len(firstname) - 3), color(dialog['speaking']), dialog_id)
         except curses.error:pass
-        # wait_for_enter(stdscr, dialog_id)
+        wait_for_enter(stdscr, dialog_id)
 
         y, x = stdscr.getyx()
         stdscr.move(y-1,0)
