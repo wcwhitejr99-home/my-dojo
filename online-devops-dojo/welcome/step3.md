@@ -7,7 +7,7 @@ However, with great power comes great responsibility. There is a process we need
 
 ---
 
-### Creat a HitHub Account  
+### Creat a GitHub Account  
 
 You need to have a GitHub account before you continue.  If you already have a GitHub account, you can skip this step.  If not, please follow the instructions below.  
 
@@ -25,7 +25,7 @@ You need to have a GitHub account before you continue.  If you already have a Gi
 1. Select `repo` so that the token can read/write in your repository and `admin:repo_hook` so that it can update GitHub repository web hooks. **Make sure to select everything within those scopes.**
 1. Click Generate token.
 1. Click the clipboard icon to copy the token in your clipboard.
-1. **Make note of the personal access token**. This token will be used throughout the Unicorn Online DevOps Dojo. Note that it is OK if you lose it, as you can always generate a new one.
+2. **Copy this personal access token and paste it to a notepad**. This token will be used throughout the Unicorn Online DevOps Dojo. Note that it is OK if you lose it, as you can always generate a new one.
 
 ---
 
