@@ -56,7 +56,7 @@ def human_type(stdscr, speaking, firstname, text, color, dialog_id):
     y, x = stdscr.getyx()
     height, width = stdscr.getmaxyx()
     if y + lines + 2 > height:
-        wait_for_enter(stdscr, dialog_id)
+        # wait_for_enter(stdscr, dialog_id)
         stdscr.clear()
     # Speaker
     stdscr.addstr(speaking + ">", curses.color_pair(1))
