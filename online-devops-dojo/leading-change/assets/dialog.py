@@ -99,9 +99,9 @@ def redraw_on_resize(stdscr, dialog_id):
 
 def wait_for_enter(stdscr, dialog_id):
     # Resize before waiting for enter
-    # try:
-    #     stdscr.addstr("\nPress enter\n", curses.color_pair(15))
-    # except curses.error: pass
+    try:
+        stdscr.addstr("\nPress enter\n", curses.color_pair(15))
+    except curses.error: pass
     if curses.is_term_resized(height, width):
             redraw_on_resize(stdscr, dialog_id)
     k = 0
