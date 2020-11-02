@@ -140,7 +140,7 @@ def main(stdscr):
         try:
             human_type(stdscr, dialog['speaking'], firstname, textwrap.fill(dialog['text'], width - len(firstname) - 3), color(dialog['speaking']), dialog_id)
         except curses.error:pass
-        wait_for_enter(stdscr, dialog_id)
+        # wait_for_enter(stdscr, dialog_id)
 
         y, x = stdscr.getyx()
         stdscr.move(y-1,0)
