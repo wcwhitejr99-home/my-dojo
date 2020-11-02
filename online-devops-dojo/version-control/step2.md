@@ -1,5 +1,5 @@
 We will now download a copy of your own personal pet-clinic GitHub repository
-locally by issuing a `git clone`. To streamline this process, you will get asked
+locally by issuing  `git clone`. To streamline this process, you will get asked
 a few questions and a script will do it for you.
 
 **Note**: you will re-use GitHub's "Personal Access Token" you created in the
