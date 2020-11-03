@@ -5,7 +5,8 @@
 // file, you can obtain one at http://mozilla.org/MPL/2.0/.
 
 const coachName = 'online-devops-dojo-coach'
-const imagePath = 'https://raw.githubusercontent.com/dxc-technology/online-devops-dojo/master/assets/online-devops-dojo/'
+// const imagePath = 'https://raw.githubusercontent.com/dxc-technology/online-devops-dojo/master/assets/online-devops-dojo/'
+const imagePath = 'https://github.com/wcwhitejr99-home/my-dojo/blob/master/assets/online-devops-dojo/'
 const pauloImage = imagePath + 'version-control/paulo.png'
 const tinaImage = imagePath + 'continuous-integration/tina.png'
 const halImage = imagePath + 'shift-security-left/hal.png'
