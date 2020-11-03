@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Online DevOps Dojo",
   "title": "Version Control",
-  "private": true,
+  "private": false,
   "description": "Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.",
   "difficulty": "intermediate",
   "time": "30 minutes",

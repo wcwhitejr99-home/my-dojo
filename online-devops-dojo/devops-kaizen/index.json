@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Online DevOps Dojo",
   "title": "DevOps Kaizen",
-  "private": true,
+  "private": false,
   "description": "Learn how DevOps Kaizen events can be used to help you and your team continuously improve your process.",
   "difficulty": "intermediate",
   "time": "45 minutes",
