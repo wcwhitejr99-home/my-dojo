@@ -1,4 +1,4 @@
-# Online DevOps Dojo  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)  
+# Online DevOps Dojo  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 This repository contains the sources of the **[Unicorn Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/)** Katacoda Scenarios and the coach robot.  
 
