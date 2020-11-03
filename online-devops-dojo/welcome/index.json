@@ -1,6 +1,6 @@
 {
   "pathwayTitle": "Online DevOps Dojo",
-  "private": true,
+  "private": false,
   "description": "Getting started with the Online DevOps Dojo: understanding the back story, setting up your environment.",
   "time": "30 minutes",
   "details": {
