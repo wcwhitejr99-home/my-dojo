@@ -1,4 +1,4 @@
-**Charlie** the CEO of the Pet Clinic (serial entrepreneur, multi-industry disruptor and philanthropist) has a personal interest in his Pet Clinic business. He views the Pet Clinic business as a natural evolution in the commercial arena of his animal activism activities from his student days. Charlie redirects a large portion of the profits from this venture to animal rescue centers in the communities in which the clinics are located.  
+![charlie](../../assets/online-devops-dojo/welcome/charlie.png)  **Charlie** the CEO of the Pet Clinic (serial entrepreneur, multi-industry disruptor and philanthropist) has a personal interest in his Pet Clinic business. He views the Pet Clinic business as a natural evolution in the commercial arena of his animal activism activities from his student days. Charlie redirects a large portion of the profits from this venture to animal rescue centers in the communities in which the clinics are located.  
 
 Just over a year ago, Charlie had some concerns about the long term viability of the Pet Clinic business. He knew changes were needed to better serve a rapidly evolving and dynamic market place. However, he felt his team's ability to deliver those changes were being hampered by their development processes, tools and culture. This often resulted in taking up to 6 months to get a change released to production and releases that, when available, were either buggy or no longer met the requirements of the business.  
 
@@ -18,15 +18,14 @@ Struggling to square the circle and unsure how to proceed, he came across a talk
 
 Charlie continued to do Research:  
 
-* Reading **The DevOps Handbook**, **The Phoenix Project**, and **The Unicorn Project**  
+- Reading **The DevOps Handbook**, **The Phoenix Project**, and **The Unicorn Project**  
+- Studying the [State of DevOps report](https://puppet.com/resources/whitepaper/state-of-devops-report)  
 
-* Studying the [State of DevOps report](https://puppet.com/resources/whitepaper/state-of-devops-report)  
+This further convinced him about the potential of DevOps and of the relevance in support of his business philosophy.  
 
-This further convinced him about the potential of DevOps and of the relevance in support of his business philosophy.
+> “Disrupting yourself is critical to avoiding stagnation, being overtaken by low-end entrants (i.e., younger, smarter, faster workers), and fast-tracking your personal and career growth.”  
+― Whitney Johnson, Disrupt Yourself: Putting the Power of Disruptive Innovation to Work  
 
-> “Disrupting yourself is critical to avoiding stagnation, being overtaken by low-end entrants (i.e., younger, smarter, faster workers), and fast-tracking your personal and career growth.”
-― Whitney Johnson, Disrupt Yourself: Putting the Power of Disruptive Innovation to Work
+This philosophy served him well in his many business interests which included newspapers, online retailing, space exploration, and the pet clinics.  
 
-This philosophy served him well in his many business interests which included newspapers, online retailing, space exploration, and the pet clinics.
-
-<div style="text-align: right">💡 **TIP**: Adjust the window size to make the module easier to read ◀ ▶. </div>
+<div style="text-align: right">💡 **TIP**: Adjust the window size to make the module easier to read ◀ ▶. </div>  

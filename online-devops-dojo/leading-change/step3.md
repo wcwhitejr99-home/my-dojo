@@ -9,7 +9,8 @@ Given the strategic importance of the Pet Clinic application to the business, Ch
 
 Coincidentally at this time the Pet Clinic application team are battling to resolve issues encountered by the business following the roll out of a major upgrade to the application.  
 
-_Note: you will learn more about that situation in the Value Stream Mapping
-module._  
+>✏ **Note**:  you will learn more about that situation in the Value Stream Mapping module.  
 
-Chun and Paulo realize that while the Pet Clinic development team is under pressure, the team is also well aware of the need to improve their processes. With the support of **Brenda** from the business and the development team, they focus on that application first.  
+![chun](../../assets/online-devops-dojo/welcome/chun.png)   ![paulo](../../assets/online-devops-dojo/welcome/paulo.png)  Chun and Paulo realize that while the Pet Clinic development team is under pressure, the team is also well aware of the need to improve their processes.  
+
+![brenda](../../assets/online-devops-dojo/welcome/brenda.png)  With the support of **Brenda** from the business and the development team, they focus on that application first.  

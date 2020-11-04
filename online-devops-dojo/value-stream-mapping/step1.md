@@ -4,11 +4,10 @@ Pet Clinic's staff are now well underway on their DevOps journey. They have defi
 
 They are applying the 3 ways of DevOps, seeing incremental but manifest improvements to their processes. This hasn't gone unnoticed by the key stakeholders in the business, who are referring other groups in the organization to the team to help them understand how this change was carried out.  
 
-**Brenda** still demands more from the team in terms of functionality delivered, and the quality of output.  
-**Paulo** is still pressuring the team to commit to
-delivering more story points in each sprint.
+![brenda](../../assets/online-devops-dojo/welcome/brenda.png)  **Brenda** still demands more from the team in terms of functionality delivered, and the quality of output.  
+![paulo](../../assets/online-devops-dojo/welcome/paulo.png)  **Paulo** is still pressuring the team to commit to delivering more story points in each sprint.  
 
-In contrast to their prior experience, requests of this nature are not causing the panic of old. Stakeholder requests are now being analyzed, incorporated into the **Improvement Themes** and addressed via the DevOps **Kaizen Events** initiated following the VSM exercise the team performed.  
+However, in contrast to their prior experience, requests of this nature are not causing the panic of old. Stakeholder requests are now being analyzed, incorporated into the **Improvement Themes** and addressed via the DevOps **Kaizen Events** initiated following the VSM exercise the team performed.  
 
 |   |   |
 |---|---|

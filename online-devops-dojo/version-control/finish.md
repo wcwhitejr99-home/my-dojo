@@ -1,6 +1,6 @@
 # Conclusion
 
-Congratulations! You just experienced version control:
+Congratulations! You just experienced version control:  
 
 * Proposing changes within a short lived feature branch  
 * Submit a pull request  

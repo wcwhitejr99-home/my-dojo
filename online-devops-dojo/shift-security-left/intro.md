@@ -1,6 +1,10 @@
-## Welcome!
+## Welcome
 
-Welcome to the **Unicorn Online DevOps Dojo** module on shifting security left.
+Welcome to the **Unicorn Online DevOps Dojo** lab  
+![unicorn](../../assets/online-devops-dojo/welcome/Unicorn1.png)  
+This course was adapted from content created by [DXC Technology](https://dxc-technology.github.io/about-devops-dojo/)  
+
+## Shifting Security Left
 
 ## Purpose
 

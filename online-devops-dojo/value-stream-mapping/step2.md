@@ -2,9 +2,11 @@
 
 Come with us on a journey. Let's rewind and take to trip back in time to the Pet Clinic offices of a year ago. We need to look back in order to better understand where the team was, and how they used VSM to understand and change their end to end process.  
 
-## Fade In ..
+## Fade In
 
 We open in the *war* room -  strewn with energy drink cans, pizza boxes, and the distinct smell of perspiration in the air.  
+
+![dirty](./assets/Dirty-Desk.jpg)
 
 The team, tired and tense, are suffering from a long couple of days spent addressing issues following an upgrade to a key system.  They are holding a post-mortem into the issues with the upgrade. The question at hand is why another major upgrade to the system was delivered late, prone to errors, and suffered periodic performance issues.  
 
