@@ -1,22 +1,14 @@
-Pet Clinic's merry bunch of people are now well underway on their DevOps
-journey. They have defined Improvement Themes and are running regular DevOps
-Kaizen events to address the delta between an ever improving current state and
-the desired state also known as the definition of awesome.
+## Step One
 
-They are from the disciplined application of the 3 ways of DevOps seeing
-incremental but manifest improvements to their processes. This hasn't gone
-unnoticed by the key stakeholders in the business, who are referring other
-groups in the organization to the team to help them understand how this change
-was carried out.
+Pet Clinic's staff are now well underway on their DevOps journey. They have defined **Improvement Themes** and are running regular DevOps **Kaizen** events to address the delta between an ever improving current state and the desired state (also known as the definition of awesome).  
 
-**Brenda** still demands more from the team in terms of functionality delivered
-and quality of output. **Paulo** is still pressuring the team to commit to
-delivering more story points in a sprint.
+They are applying the 3 ways of DevOps, seeing incremental but manifest improvements to their processes. This hasn't gone unnoticed by the key stakeholders in the business, who are referring other groups in the organization to the team to help them understand how this change was carried out.  
 
-The difference now is that requests of that nature are not causing the panic of
-old. Now stakeholder requests are being analyzed, incorporated into the
-Improvement Themes and addressed via the DevOps Kaizen Events initiated
-following the VSM exercise the team performed.
+**Brenda** still demands more from the team in terms of functionality delivered, and the quality of output.  
+**Paulo** is still pressuring the team to commit to
+delivering more story points in each sprint.
+
+In contrast to their prior experience, requests of this nature are not causing the panic of old. Stakeholder requests are now being analyzed, incorporated into the **Improvement Themes** and addressed via the DevOps **Kaizen Events** initiated following the VSM exercise the team performed.  
 
 |   |   |
 |---|---|
@@ -29,4 +21,4 @@ following the VSM exercise the team performed.
 |![Dan](../../assets/online-devops-dojo/value-stream-mapping/dan.png)|**Dan** Developer representative in the VSM exercise |
 |![Tina](../../assets/online-devops-dojo/value-stream-mapping/tina.png)|**Tina** Test representative in the VSM exercise |
 
-But it wasn't always that way ...
+### But it wasn't always this way  

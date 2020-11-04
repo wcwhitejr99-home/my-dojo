@@ -1,8 +1,8 @@
-**Paulo** the product owner suggests the team work with **Chun** the DevOps coach to initiate and run a Kaizen process.
+![paulo](../../assets/online-devops-dojo/welcome/paulo.png)   **Paulo** the product owner suggests the team work with **Chun** the DevOps coach to initiate and run a Kaizen process.  
 
-**Brenda** from the business already seeing the potential of the VSM is intrigued and wants to hear more.
+![brenda](../../assets/online-devops-dojo/welcome/brenda.png)   **Brenda** from the business is already seeing the potential of the VSM is intrigued and wants to hear more.  
 
-Chun explains Kaizen is a Japanese word that translates to "change for better", and that Kaizen involves a process of continuous improvement undertaken by teams which can cross organizational boundaries when necessary. Kaizen aims to improve customer/client outcomes by eliminating waste and making organizations leaner by incrementally improving and standardizing processes along the entire value stream.
+![chun](../../assets/online-devops-dojo/welcome/chun.png)  **Chun** explains that Kaizen is a Japanese word that translates to **"change for better"**, and that Kaizen involves a process of continuous improvement undertaken by teams (which can cross organizational boundaries when necessary). Kaizen aims to improve customer/client outcomes by eliminating waste and making organizations leaner by incrementally improving and standardizing processes along the entire value stream.  
 
 **Dan** the developer thinks that Kaizen has similar objectives to DevOps, a point **Adam** agrees with. Chun confirms that understanding and explains that Kaizen in a DevOps context or as it is more commonly known as **DevOps Kaizen** is a process which uses DevOps tools, technologies and methodologies to continuously improve the flow of work through the E2E value stream to achieve better customer outcomes.
 

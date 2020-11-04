@@ -1,7 +1,13 @@
-The correct answer is **Release Planning & Estimation**
+>> What activity has the longest lead time? <<  
+(*) Release Planning & Estimation  
+( ) Design Approval  
+( ) Show Case and Approval  
+( ) Production Deployment  
 
-The step with longest lead time (LT) is **Release Planning & Estimation** as it has a lead time of 3 weeks with only 1 hour of processing time (PT)
+The correct answer is **Release Planning & Estimation**  
 
-As a reminder here is the VSM the Pet Clinic team agreed represented their E2E software development process
+The step with longest lead time (LT) is **Release Planning & Estimation** as it has a lead time of 3 weeks with only 1 hour of processing time (PT)  
 
-![](https://s3.amazonaws.com/devopsdojoassets/valuestreammap.png)
+As a reminder here is the VSM the Pet Clinic team agreed represented their E2E software development process  
+
+![vsm](https://s3.amazonaws.com/devopsdojoassets/valuestreammap.png)  

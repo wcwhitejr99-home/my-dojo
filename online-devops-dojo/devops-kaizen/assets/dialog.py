@@ -63,7 +63,7 @@ def human_type(stdscr, speaking, firstname, text, color, dialog_id):
     stdscr.addstr(" ")
     # do not wait for input when calling getch
     stdscr.nodelay(1)
-    nodelay = False
+    nodelay = True
     for letter in text:
         stdscr.refresh()
         try:

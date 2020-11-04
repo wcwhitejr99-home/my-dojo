@@ -1,7 +1,13 @@
-The correct answer is **Showcase and UAT**
+>> What activity in the VSM has worst %C/A? <<  
+( ) Change Approval  
+(*) Showcase and UAT  
+( ) Design and Analysis  
+( ) Development & dev testing (including test automation)  
 
-The step with the worst %C/A is **Showcase and UAT** as it has a %C/A of 50%
+The correct answer is **Showcase and UAT**  
 
-As a reminder here is the VSM the Pet Clinic team agreed represented their E2E software development process
+The step with the worst %C/A is **Showcase and UAT** as it has a %C/A of 50%  
 
-![](https://s3.amazonaws.com/devopsdojoassets/valuestreammap.png)
+As a reminder here is the VSM the Pet Clinic team agreed represented their E2E software development process  
+
+![vsm](https://s3.amazonaws.com/devopsdojoassets/valuestreammap.png)  

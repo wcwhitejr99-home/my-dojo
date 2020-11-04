@@ -19,4 +19,5 @@ Run the following command to bring up Jenkins and connect it to your copy of the
 
 ## Modify this to use GitLab Runners
 
-This module should be re-designed to leverage GitLab Runners instead of Jenkins.
+> This module should be re-designed to leverage GitLab Runners instead of Jenkins.
+> BW
