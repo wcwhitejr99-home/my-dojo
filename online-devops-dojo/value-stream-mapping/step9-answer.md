@@ -1,4 +1,4 @@
->> What activity has the longest lead time? <<  
+> What activity has the longest lead time?  
 (*) Release Planning & Estimation  
 ( ) Design Approval  
 ( ) Show Case and Approval  

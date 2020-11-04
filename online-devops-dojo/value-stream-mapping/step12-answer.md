@@ -1,4 +1,4 @@
->> The Overall Activity Ratio for the VSM is 14.5% which step has the worst activity ratio? <<  
+> The Overall Activity Ratio for the VSM is 14.5% which step has the worst activity ratio?  
 (*) Release Planning & Estimation  
 ( ) Design Approval  
 ( ) Design and Analysis  

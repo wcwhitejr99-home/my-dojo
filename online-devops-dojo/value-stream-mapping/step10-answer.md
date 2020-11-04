@@ -1,4 +1,4 @@
->> What activity in the VSM has worst %C/A? <<  
+> What activity in the VSM has worst %C/A?  
 ( ) Change Approval  
 (*) Showcase and UAT  
 ( ) Design and Analysis  

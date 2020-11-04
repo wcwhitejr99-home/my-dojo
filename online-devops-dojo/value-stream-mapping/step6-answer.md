@@ -1,4 +1,4 @@
->> Why do you think work spends time waiting? <<  
+> Why do you think work spends time waiting?
 ( ) Handoffs  
 ( ) Incomplete/Incorrect processing  
 ( ) Queues  
