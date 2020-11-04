@@ -1,5 +1,5 @@
 
-![](../../assets/online-devops-dojo/devops-kaizen/team-chat.jpg)
+![chat](../../assets/online-devops-dojo/devops-kaizen/team-chat.jpg)
 
 Click: `./dialog1.sh`{{execute}}
 
